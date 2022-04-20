@@ -1,0 +1,24 @@
+{
+  "name": "restapii",
+  "version": "1.0.0",
+  "description": "project Rest Api ()\u001b[Dexample)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeonmark/restapii.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodjs"
+  ],
+  "author": "zahra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeonmark/restapii/issues"
+  },
+  "homepage": "https://github.com/leeonmark/restapii#readme"
+}
